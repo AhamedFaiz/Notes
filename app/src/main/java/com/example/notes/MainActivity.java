@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     ListView listView;
     static ArrayList<String> notes = new ArrayList<>();
     static ArrayAdapter arrayAdapter;
+    int a , b;
 
     // adding a options menu item in task bar
 
