@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     static ArrayAdapter arrayAdapter;
     int a , b;
     int  c;
+    int d;
 
     // adding a options menu item in task bar
 
